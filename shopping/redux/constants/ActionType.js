@@ -1,0 +1,12 @@
+export const GET_LIST_MOVIES = "GET_LIST_MOVIES";
+export const GET_DETAIL_MOVIE = "GET_DETAIL_MOVIE";
+export const GET_LIST_PRODUCT = "GET_LIST_PRODUCT";
+export const BUY_PRODUCT = "BUY_PRODUCT";
+export const MIN_MAX_PRODUCT = "MIN_MAX_PRODUCT";
+export const GET_LIST_COLOR_SIZE = "GET_LIST_COLOR_SIZE";
+export const LOGIN = "LOGIN";
+export const DELETEARR = "DELETEARR";
+export const SUCCESSFUL = "SUCCESSFUL";
+export const DELETE_CARDPRODUCT = "DELETE_CARDPRODUCT";
+export const GET_USER_ONE = "GET_USER_ONE";
+
